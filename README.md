@@ -52,7 +52,7 @@ What this script does:
 
   test_ids.csv: Contains the IDs required for the final submission.
 
-Step 3: Model Training
+### Step 3: Model Training
 
 Train the Multimodal Neural Network that combines the images from Step 1 and the data from Step 2.
 
@@ -97,7 +97,7 @@ What this script does:
 
   submission_multimodal.csv: The final submission file containing id and predicted price.
 
-🛠️ Requirements
+### 🛠️ Requirements
 
   Python 3.8+
 
